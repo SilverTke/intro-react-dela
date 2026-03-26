@@ -1,0 +1,7 @@
+[tools]
+biome = "latest"
+pnpm = "latest"
+
+[tasks.dev]
+description = "Arranca el servidor dev"
+run = "pnpm dev"
